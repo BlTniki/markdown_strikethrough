@@ -4,7 +4,7 @@ from pathlib import Path
 setup(
     name="markdown_strikethrough",
     version="0.0.1",
-    url="https://github.com/alberic89/markdown_mark",
+    url="https://github.com/BlTniki/markdown_strikethrough",
     description="A markdown python extension that enables you to create <s> tag by using ~~some text~~",
     author="BlTniki",
     author_email="shakarimovdima@ya.ru",
